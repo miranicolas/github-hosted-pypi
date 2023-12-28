@@ -1,7 +1,7 @@
 <h1 align="center">github-hosted-pypi</h1>
 
 <p align="center">
-Make all your private packages accessible in one place<br>with this github-hosted PyPi index
+Make all your private packages accessibldsdse in one place<br>with this github-hosted PyPi index
 </p>
 
 ---
